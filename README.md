@@ -1,5 +1,6 @@
 # coco_to_yolo
-convert coco annotation to yolo annotation
+convert coco annotation to yolo annotation 
+no need to download the images
 the coco annotation can be fond in cocodataset web site https://cocodataset.org/#download
 
 
